@@ -1,0 +1,39 @@
+# Web Framework
+streamlit==1.47.1
+
+# PDF Processing
+pdfminer.six==20221105
+
+# Data Processing
+pandas==1.5.3
+numpy==1.24.3
+
+# Database
+pymysql==1.1.1
+
+# Natural Language Processing
+nltk==3.9.2
+
+# Image Processing
+Pillow==10.3.0
+
+# Visualization
+plotly==5.22.0
+
+# UI Components
+streamlit-tags==1.2.8
+
+# Video Processing
+pafy==0.5.5
+youtube-dl==2021.12.17
+
+# Web Scraping & LinkedIn
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Browser Automation (Optional - for LinkedIn scraping)
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# Environment Variables
+python-dotenv==1.0.0
